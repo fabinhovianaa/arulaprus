@@ -14,13 +14,14 @@ body{
     width: 20%;
 }
 fieldset{
-    border: 3px solid dodgerblue;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 2px;
 }
 legend{
-    border: 1px solid dodgerblue;
+    border: 1px solid rgb(255, 255, 255);
     padding: 10px;
     text-align: center;
-    background-color: dodgerblue;
+    background-color: rgb(84, 11, 11);
     border-radius: 8px;
 }
 .inputBox{
